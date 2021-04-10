@@ -10,15 +10,15 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#theme                    : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+#theme                   : "minimal-mistakes-jekyll"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "de-DE"
 title                    : "André Wendler"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Medienkulturwissenschaftler"
 name                     : "André Wendler"
 description              : "Medienkulturwissenschaftler und Geschichtsvermittler, Autor und Kurator, Digital Humanist und Dozent."
 url                      : "https://a-wendler.github.io"
@@ -27,7 +27,7 @@ repository               : "a-wendler/a-wendler.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -51,8 +51,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -94,26 +94,26 @@ analytics:
 # Site Author
 author:
   name             : "André Wendler"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Medienkulturwissenschaftler und Geschichtsvermittler, Autor und Kurator, Digital Humanist und Dozent."
+  avatar           : "/assets/images/20180124_wendler_andre_8356_v1.jpg"
+  bio              : ""
   location         : "Leipzig"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "www.andrewendler.de"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://andrewendler.de"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/awndlr"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/a-wendler"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -123,13 +123,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/awndlr"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/a-wendler"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -274,8 +274,21 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
       related: true
+  # projekte
+  - scope:
+      path: ""
+      type: projekte
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+collections:
+  projekte:
+    output: true
+    permalink: /:collection/:path/
