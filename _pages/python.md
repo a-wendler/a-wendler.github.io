@@ -7,7 +7,7 @@ excerpt: ""
 header:
   overlay_image: /assets/images/chris-ried-ieic5Tq8YMk-unsplash.jpg
   caption: "Foto: [Chris Ried](https://unsplash.com/@cdr6934?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) via [Unsplash](https://unsplash.com/s/photos/coding?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
-date: 2020-10-30T10:00:00+00:00
+date: 2021-04-10T10:00:00+00:00
 ---
 
 ## Warum sollen Geisteswissenschaftler\*innen programmieren?
@@ -24,3 +24,5 @@ Ein __Beispiel__ für ein solches Werkzeug ist meine selbstgeschriebene Bestands
 {: .notice--info}
 
 Auch die Nutzung fertiger Analyseframeworks erfordert oft die »Zubereitung« der eigenen Daten.
+
+Mit meinem Kollegen [Ramon Voges](https://www.ramonvoges.de/) biete ich in der [Deutschen Nationalbibliothek](https://www.dnb.de) regelmäßig einführende Kurse in das Programmieren mit Python für Kulturwissenschaftler\*innen an.

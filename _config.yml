@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "awndlr"
 facebook:
   username               :
   app_id                 :
@@ -117,6 +117,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "ORCID iD"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0003-2504-829X"
 
 # Site Footer
 footer:
