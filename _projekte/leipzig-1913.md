@@ -3,6 +3,7 @@ layout: single
 title:  "Buchstadt Leipzig 1913"
 date:   2018-09-01 10:00:00 +0100
 excerpt: "Eine historische Karte des Leipziger Buchgewerbes 1913"
+comments: true
 header:
   overlay_image: /assets/images/graphisches-viertel-1913.jpg
   actions:
