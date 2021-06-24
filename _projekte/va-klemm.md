@@ -5,6 +5,7 @@ date:   2019-09-19 10:00:00 +0100
 excerpt: "Eine virtuelle Ausstellung zum 200. Geburtstag von Heinrich Klemm"
 header:
   overlay_image: /assets/images/posts-projekte-klemm.jpg
+  teaser: /assets/images/posts-projekte-klemm.jpg
   actions:
     - label: "zur Ausstellung"
       url: "http://ausstellungen.deutsche-digitale-bibliothek.de/klemm/"

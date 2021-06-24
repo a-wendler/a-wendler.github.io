@@ -141,7 +141,9 @@ Formvollendet. Text zu Martin Provost, 2013, *Violette.* In: Sissy. Nr. 21/2014,
 
 ## Vorträge
 
-Bits und Blei. Früher Buchdruck und Digitalisierung. Vortrag im Rahmen der Ringvorlesung »Alte Medien«, Fakultät Medien, Bauhaus-Universität Weimar, 08.12.20
+Instrumente zur digitalen Sammlungserkundung. Vortrag in der Vorlesungsreihe »Forschungspotential der Digital Humanities in der Buch- und Literaturwissenschaft«, LMU München, 23.06.21 
+
+Bits und Blei. Früher Buchdruck und Digitalisierung. Vortrag in der Ringvorlesung »Alte Medien«, Fakultät Medien, Bauhaus-Universität Weimar, 08.12.20
 
 Filmeinführung zu Franco Zeffirelli: La Traviata (I, 1982) in der Filmreihe »Ouvertüre« des Zeughaus Kinos im Deutschen Historischen Museum Berlin, 26.09.17
 

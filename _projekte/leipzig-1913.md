@@ -6,6 +6,7 @@ excerpt: "Eine historische Karte des Leipziger Buchgewerbes 1913"
 comments: true
 header:
   overlay_image: /assets/images/graphisches-viertel-1913.jpg
+  teaser: /assets/images/graphisches-viertel-1913.jpg
   actions:
     - label: "zur Karte"
       url: "https://s-leipzig.maps.arcgis.com/apps/webappviewer/index.html?id=d2a4ac9b64fa4c85944710b947122a75"

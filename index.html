@@ -37,3 +37,13 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+<h1>neueste Blogbeiträge</h1>
+
+{% for post in site.posts limit:3 -%}
+  {% unless post.hidden -%}
+    {% include archive-single.html %}
+  {% endunless -%}
+{% endfor -%}
+
+</ul>

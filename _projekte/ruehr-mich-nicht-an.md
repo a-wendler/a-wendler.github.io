@@ -5,6 +5,7 @@ date:   2020-09-16 10:00:00 +0100
 excerpt: "Eine virtuelle Ausstellung zur Kulturgeschichte des Social Distancing"
 header:
   overlay_image: /assets/images/posts-projekte-social-distancing.jpg
+  teaser: /assets/images/posts-projekte-social-distancing.jpg
   actions:
     - label: "zur Ausstellung"
       url: "https://ausstellungen.deutsche-digitale-bibliothek.de/distanz"

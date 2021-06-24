@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Blog"
+    url: /year-archive/
   - title: "Publikationen"
     url: /publikationen/
   - title: "Projekte"
