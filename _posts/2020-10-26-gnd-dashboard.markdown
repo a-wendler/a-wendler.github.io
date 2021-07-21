@@ -13,7 +13,11 @@ tags:
   - Visualisierung
 
 header:
-  image: /assets/images/2021-06-24-gnd-dashboard.jpg
+  overlay_image: /assets/images/2021-06-24-gnd-dashboard.jpg
+  overlay_filter: 0.5
+  actions:
+    - label: "zum Dashboard"
+      url: "https://share.streamlit.io/buchmuseum/gnd_dashboard/main/dashboard/gnd-app.py"
 ---
 
 Aus Anlass der [GNDCon 2.0](https://wiki.dnb.de/pages/viewrecentblogposts.action?key=GND) im Juni 2021, habe einige Kollegen der Deutschen Nationalbibliothek ein Dashboard gebaut, um die fast 9 Millionen Datensätze der gemeinsamen Normdatei etwas greifbarer und übersichtlicher zu machen.

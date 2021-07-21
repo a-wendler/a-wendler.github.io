@@ -1,10 +1,13 @@
 ---
-title: "Lehre"
+title: "Seminar- und Lehrtätigkeit"
 permalink: /lehre/
 layout: single
 author_profile: true
 date: 2020-10-27T10:00:00+00:00
 ---
+November ’21: In 5 Minuten zum Erfolg. Pitch & Präsentationstechniken. Kurs im internen Trainingsprogramm der Deutschen Nationalbibliothek
+
+Oktober ’21: Erste Hilfe Typografie digital. Kurs im internen Trainingsprogramm der Deutschen Nationalbibliothek
 
 SS ’20: Medienarchäologie der Bibliothek, Seminar, BA (online)
 
