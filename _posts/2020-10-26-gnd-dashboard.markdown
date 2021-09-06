@@ -17,12 +17,12 @@ header:
   overlay_filter: 0.5
   actions:
     - label: "zum Dashboard"
-      url: "https://share.streamlit.io/buchmuseum/gnd_dashboard/main/dashboard/gnd-app.py"
+      url: "https://share.streamlit.io/deutsche-nationalbibliothek/gnd-dashboard/main/dashboard/gnd-app.py"
 ---
 
 Aus Anlass der [GNDCon 2.0](https://wiki.dnb.de/pages/viewrecentblogposts.action?key=GND) im Juni 2021, habe einige Kollegen der Deutschen Nationalbibliothek ein Dashboard gebaut, um die fast 9 Millionen Datensätze der gemeinsamen Normdatei etwas greifbarer und übersichtlicher zu machen.
 
-[Hier geht es direkt zum Dashboard](https://share.streamlit.io/buchmuseum/gnd_dashboard/main/dashboard/gnd-app.py)
+[Hier geht es direkt zum Dashboard](https://share.streamlit.io/deutsche-nationalbibliothek/gnd-dashboard/main/dashboard/gnd-app.py)
 {: .notice--info}
 {: .text-center}
 
@@ -59,7 +59,7 @@ Außerdem kann man nach den einzelnen Satzarten filtern und sich zusätzliche Wi
 
 ## Offene Daten
 
-Die zugrundeliegenden Daten sind unter CC0-Lizenz [frei verfügbar](https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html#doc58016bodyText4). Die Skripte für die Datenverarbeitung das Dashboard selbst sind ebenfalls [frei bei GitHub](https://github.com/buchmuseum/GND_Dashboard) einzusehen.
+Die zugrundeliegenden Daten sind unter CC0-Lizenz [frei verfügbar](https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html#doc58016bodyText4). Die Skripte für die Datenverarbeitung das Dashboard selbst sind ebenfalls [frei bei GitHub](https://github.com/deutsche-nationalbibliothek/gnd-dashboard) einzusehen.
 
 ## Hintergrund: Was ist die Gemeinsame Normdatei
 
