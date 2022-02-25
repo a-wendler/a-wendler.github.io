@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Was man über Goethes Faust lernt, wenn er virtuell wird"
-excerpt: "Was man über Goethes Faust lernen kann, wenn man eine Adaption als Virtual Reality Experience erlebt?"
+excerpt: "Kann man über einen Klassiker der deutschen Literatur etwas lernen, das man noch nicht wusste, wenn man ihn in einer Adaption als VR erlebt?"
 
 date: 2022-01-30
 categories:
@@ -19,7 +19,7 @@ header:
       url: "https://www.dnb.de/SharedDocs/Downloads/DE/Ueber-uns/Pressemitteilungen/2021_GoetheVr/video_goetheVR_trailer.mp4?__blob=publicationFile&v=2"
 ---
 
-In einem Kooperationsprojekt mit [ZDF Digital](https://www.zdf-digital.com/) und anderen Kultureinrichtungen habe ich für das Deutsche Buch- und Schriftmuseum der [Deutschen Nationalbibliothek](https://www.dnb.de) die Produktion einer Fassung von Goethes Faust als Virtual Reality Experience, kurz: VR, koordiniert. Dabei haben viele Kolleg*innen, Gäste und Journalist*innen immer wieder eine Frage gestellt: Was soll das ganze eigentlich? Für die Deutsche Nationalbibliothek war es in erster Linie ein Experiment. Wir haben uns an Virtual Reality herangetastet. Wir haben überlegt, was man damit in der Deutschen Nationalbibliothek machen kann, für wen es sich lohnt, wen es interessieren könnte.
+In einem Kooperationsprojekt mit [ZDF Digital](https://www.zdf-digital.com/) und anderen Kultureinrichtungen habe ich für das Deutsche Buch- und Schriftmuseum der [Deutschen Nationalbibliothek](https://www.dnb.de) die Produktion einer Fassung von Goethes Faust als Virtual Reality Experience, kurz: VR, koordiniert. Dabei haben viele Kolleg\*innen, Gäste und Journalist\*innen immer wieder eine Frage gestellt: Was soll das ganze eigentlich? Für die Deutsche Nationalbibliothek war es in erster Linie ein Experiment. Wir haben uns an Virtual Reality herangetastet. Wir haben überlegt, was man damit in der Deutschen Nationalbibliothek machen kann, für wen es sich lohnt, wen es interessieren könnte.
 
 {% capture fig_img %}
 ![GoetheVR]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_0912.jpeg)
@@ -44,7 +44,7 @@ Im Stück selbst führt Mephisto Faust nicht nur durch allerlei Länder. Sie beg
 
 In den einzelnen Szenen lässt Goethe teilweise aberwitzige und fantastische Figurenkonstellationen auftreten: Meerdrachen, Galatee auf dem Muschelwagen, Meere und Flüsse, Gebirge, ein Kaiserhof, Geister aller Art und immer so fort. Die Überforderung ist Programm.
 
-Was Goethe fast leichtfüßig poetisch beschwören kann, ist auf einer echten Bühen durch echte Schauspieler*innen und Kulissen nur schwer zu realisieren. In der Aufführung in einem echten Theater werden sich die Zuschauer aber immer bewusst sein, dass sie auf einem Theatersitz sitzen und auf eine Bühne schauen, auf der „nur“ gespielt wird.
+Was Goethe fast leichtfüßig poetisch beschwören kann, ist auf einer echten Bühen durch echte Schauspieler\*innen und Kulissen nur schwer zu realisieren. In der Aufführung in einem echten Theater werden sich die Zuschauer aber immer bewusst sein, dass sie auf einem Theatersitz sitzen und auf eine Bühne schauen, auf der »nur« gespielt wird.
 
 Die besondere Erfahrung einer Virtual Reality lässt einen anders in diese Welt eintauchen. Hier wird man wirklich wie von Zauberhand von einer Szene in die nächste getragen. Man durchreist Länder und Zeiten und hat wirklich den Eindruck, in der Mitte einer ganzen eigenen Kunstwelt zu stehen.
 
@@ -60,7 +60,7 @@ Man kann das nicht vergessen, wenn man die VR durchlebt. Und doch bleibt am Ende
 
 ## Immer eine andere Welt
 
-Die Germanist*innen und Goethe-Liebhaber*innen haben ihre Interpretationen und Vorstellungen von Faust. In den Universitäten und Seminaren streiten sie über den „richtigen“, vielleicht den „wahren“ Faust.
+Die Germanist\*innen und Goethe-Liebhaber\*innen haben ihre Interpretationen und Vorstellungen von Faust. In den Universitäten und Seminaren streiten sie über den »richtigen«, vielleicht den »wahren« Faust.
 
 Wenn die Gäste bei uns das VR-Headset aufsetzen, tauchen alle in ihre ganz eigene Welt ein. Ich habe die Goethe VR unzählige Male selbst durchgespielt. Und immer wieder sehe ich anderen gern dabei zu, in welche ganze persönliche Faust-Welt sie eintauchen.
 
