@@ -1,0 +1,73 @@
+---
+layout: single
+title:  "Was man über Goethes Faust lernt, wenn er virtuell wird"
+excerpt: "Was man über Goethes Faust lernen kann, wenn man eine Adaption als Virtual Reality Experience erlebt?"
+
+date: 2022-01-30
+categories:
+  - Data Science
+ 
+tags:
+  - Virtual Reality
+  - Goethe
+
+header:
+  overlay_image: /assets/images/2021-01-30-goethevr.png
+  overlay_filter: 0.5
+  actions:
+    - label: "Trailer der VR"
+      url: "https://www.dnb.de/SharedDocs/Downloads/DE/Ueber-uns/Pressemitteilungen/2021_GoetheVr/video_goetheVR_trailer.mp4?__blob=publicationFile&v=2"
+---
+
+In einem Kooperationsprojekt mit [ZDF Digital](https://www.zdf-digital.com/) und anderen Kultureinrichtungen habe ich für das Deutsche Buch- und Schriftmuseum der [Deutschen Nationalbibliothek](https://www.dnb.de) die Produktion einer Fassung von Goethes Faust als Virtual Reality Experience, kurz: VR, koordiniert. Dabei haben viele Kolleg*innen, Gäste und Journalist*innen immer wieder eine Frage gestellt: Was soll das ganze eigentlich? Für die Deutsche Nationalbibliothek war es in erster Linie ein Experiment. Wir haben uns an Virtual Reality herangetastet. Wir haben überlegt, was man damit in der Deutschen Nationalbibliothek machen kann, für wen es sich lohnt, wen es interessieren könnte.
+
+{% capture fig_img %}
+![GoetheVR]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_0912.jpeg)
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Zwei Gäste in der Deutschen Nationalbibliothek in Leipzig beim Spielen von Goethe VR. Foto: André Wendler, CC BY SA 3.0 DE</figcaption>
+</figure>
+
+Ich selbst habe das Projekt von Anfang an als Projektmanager für die Deutsche Nationalbibliothek begleitet. Die Fragen nach dem Sinn und Zweck konnte ich auch nicht gleich beantworten. Ich habe gelernt: Das Ganze heißt Experience, also Erlebnis oder Erfahrung, weil man es eben erleben, am eigenen Leib erfahren muss.
+
+Erst als ich selbst das erste Mal das VR-Headset auf dem Kopf hatte und in Fausts Rolle geschlüpft bin, habe ich verstanden, was sich in dieser Goethe VR über Goethe und über Faust lernen lässt.
+
+Hier sind drei Punkte, die ich durch Goethe VR über Goethes Faust gelernt habe.
+
+## Grenzenlosigkeit von Raum und Zeit
+
+Ich kann nicht behaupten, die beiden Teile des Faust schon einmal auf einer Bühne gesehen zu haben. Ein Blick in die Aufführungsgeschichte des Stücke zeigt aber: an Superlativen mangelt es hier nicht. Die Inszenierung des Faust II am Deutschen Theater in Berlin von Max Reinhardt dauerte zunächst von 14 Uhr bis 1 Uhr des folgenden Tages. Später wurde sie auf handliche acht Stunden gekürzt. Eine neuere Inszenierung aus Wien 2009 dauerte für beide Teile zusammen immer noch sieben Stunden.
+
+Im Stück selbst führt Mephisto Faust nicht nur durch allerlei Länder. Sie begeben sich vielmehr auf eine veritable Zeitreise vom antiken Griechenland bis in Fausts Gegenwart.
+
+In den einzelnen Szenen lässt Goethe teilweise aberwitzige und fantastische Figurenkonstellationen auftreten: Meerdrachen, Galatee auf dem Muschelwagen, Meere und Flüsse, Gebirge, ein Kaiserhof, Geister aller Art und immer so fort. Die Überforderung ist Programm.
+
+Was Goethe fast leichtfüßig poetisch beschwören kann, ist auf einer echten Bühen durch echte Schauspieler*innen und Kulissen nur schwer zu realisieren. In der Aufführung in einem echten Theater werden sich die Zuschauer aber immer bewusst sein, dass sie auf einem Theatersitz sitzen und auf eine Bühne schauen, auf der „nur“ gespielt wird.
+
+Die besondere Erfahrung einer Virtual Reality lässt einen anders in diese Welt eintauchen. Hier wird man wirklich wie von Zauberhand von einer Szene in die nächste getragen. Man durchreist Länder und Zeiten und hat wirklich den Eindruck, in der Mitte einer ganzen eigenen Kunstwelt zu stehen.
+
+Mephistos Magie erscheint vor Augen und Ohren, verschwindet, bleibt rätselhaft, lässt staunen.
+
+## Erzähl-Technologie
+
+Goethes Stücke sind Ergebnisse handfester Sprach-Techniken. Meisterhaft verwendet er Stilmittel, um die metaphorische Welt Fausts zu beschwören. Mephisto, Faust, Gretchen und all die anderen Figuren, sind nicht einfach da. Sie sind keine Personen. Sie sind Produkte künstlerischer Techniken.
+
+Die Technik unserer Goethe VR hat wenig mit Goethe zu tun. In der Projektentwicklung sprachen wir immer wieder über Facecapturing, Bildwiederholraten, Grafikauflösung, Gigaflops und Terrabyte. Die Sprachkunst Goethes wird in der Pixel-Kunst von 3D-Artists neu aufgeführt.
+
+Man kann das nicht vergessen, wenn man die VR durchlebt. Und doch bleibt am Ende etwas übrig, das mehr ist als nur Soundfiles und Pixel. Fast so, wie Goethe Faust eben mehr ist, als nur auf Buchseiten gedruckte Buchstaben.
+
+## Immer eine andere Welt
+
+Die Germanist*innen und Goethe-Liebhaber*innen haben ihre Interpretationen und Vorstellungen von Faust. In den Universitäten und Seminaren streiten sie über den „richtigen“, vielleicht den „wahren“ Faust.
+
+Wenn die Gäste bei uns das VR-Headset aufsetzen, tauchen alle in ihre ganz eigene Welt ein. Ich habe die Goethe VR unzählige Male selbst durchgespielt. Und immer wieder sehe ich anderen gern dabei zu, in welche ganze persönliche Faust-Welt sie eintauchen.
+
+Alle agieren anders. Manche treten ganz nah an Mephisto und Gretchen heran. Sie betrachten die Details der Gegenstände, die ihnen virtuelle vor die Füße fliegen. Andere beschauen das große Ganze, lassen den Blick in die Ferne schweifen, während Mephisto Faust zu verführen versucht. Wieder andere haben Spaß daran auszuprobieren, an welchen Punkten sie mit all dem interagieren kann.
+
+Niemand tritt in die gleiche Welt ein und kommt aus der gleichen zurück. Es ist eine individuelle Begegnung mit einem uralten Stoff. Anders im Theater: dort sitzt das Publikum wie eine Kollektivperson, lacht gemeinsam, erschrickt gemeinsam.
+
+Welche Begegnung mit seinen Figuren hätte Goethe am besten gefallen?
+
+In der Deutschen Nationalbibliothek in Frankfurt am Main und in Leipzig können Sie die Goethe VR nach individueller Anmeldung selbst erleben. Informationen, Anmeldemöglichkeit und Spielzeiten finden Sie unter [dnb.de/goethevr](https://dnb.de/goethevr).
