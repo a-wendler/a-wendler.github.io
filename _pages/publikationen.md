@@ -47,7 +47,7 @@ Wie ist in der Welt die Produktion von etwas Neuem möglich? - Das ist die Leitf
 
 2015: Medien, Netzwerk, Liebe. In: Film-Konzepte, Heft 37: Spike Jonze, hg. von Johannes Wende. München: edition text+kritik, S. 67–81.
 
-​2014: Artikel Amerikanische Nacht und Zeitlupe. In: Marius Böttcher, Dennis Göttel, Jan Philip Müller, Linda Waack, Regina Wuzella (Hg.): Wörterbuch Kinematographischer Objekte. Berlin: diaphanes, S. 101–102, 174–175.
+2014: Artikel Amerikanische Nacht und Zeitlupe. In: Marius Böttcher, Dennis Göttel, Jan Philip Müller, Linda Waack, Regina Wuzella (Hg.): Wörterbuch Kinematographischer Objekte. Berlin: diaphanes, S. 101–102, 174–175.
 
 2013b: Zeitspiele. Game of Thrones. Cargo. Film/Medien/Kultur Nr. 20, Dez. 2013, S. 35–40.
 
@@ -67,6 +67,8 @@ Wie ist in der Welt die Produktion von etwas Neuem möglich? - Das ist die Leitf
 
 ## Rezensionen
 
+Andrew Pettegree: The library : a fragile history. In: Zeitschrift für Bibliothekswesen und Bibliographie 4/2022, 69. Jg., S. 231–232.
+
 Günther Fetzer: Das Taschenbuch. Geschichte – Verlage – Reihen. Tübingen: Narr Francke Attempo 2019. In: Archiv für die Geschichte des Buchwesens, hg. von der Historischen Kommission des Börsenvereins des Deutschen Buchhandels e. V., Bd. 75. Berlin/Boston: de Gruyter 2020, S. 252–253.
 
 Pleßke, Hans-Christoph: Historische Personen und Ereignisse in der deutschsprachigen Literatur 1945–2000 : eine Bibliographie. Stuttgart: Anton Hiersemann 2017. In: Zeitschrift für Bibliothekswesen und Bibliographie 1/2018, 65. Jg, S. 62–63.
@@ -74,6 +76,8 @@ Pleßke, Hans-Christoph: Historische Personen und Ereignisse in der deutschsprac
 Spiel mit der Wirklichkeit. Zur Entwicklung doku-fiktionaler Formate in Film und Fernsehen. In: Historical Journal of Film, Radio and Television, 34/4 (2013), DOI: [10.1080/01439685.2013.852819](https://doi.org/10.1080/01439685.2013.852819)
 
 ## nicht-wissenschaftliche Publikationen
+
+2021: Ein Dashboard für die GND. In: Dialog mit Bibliotheken. 2021/2, S. 29–32. [urn:nbn:de:101-20211005107](https://nbn-resolving.org/urn:nbn:de:101-20211005107) (gemeinsam mit Ramon Voges)
 
 2020a: Vom Zettelkasten zum interaktiven Notizbuch : Das Datenlabor der Deutschen Nationalbibliothek. In: Dialog mit Bibliotheken. 2020/2, S. 26–28. [urn:nbn:de:101-20200622181](https://nbn-resolving.org/urn:nbn:de:101-20200622181) (gemeinsam mit Ramon Voges)
 
