@@ -105,9 +105,13 @@ author:
     - label: "www.andrewendler.de"
       icon: "fas fa-fw fa-link"
       url: "https://andrewendler.de"
+    - label: "Mastodon"
+      icon: "fa-brands fa-mastodon"
+      url: "https://openbiblio.social/web/@awndlr"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/awndlr"
+    
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -124,6 +128,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Mastodon"
+      icon: "fa-brands fa-mastodon"
+      url: "https://openbiblio.social/web/@awndlr"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/awndlr"
