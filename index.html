@@ -1,44 +1,16 @@
 ---
 title: "Home"
-layout: splash
+layout: home
+author_profile: true
 permalink: /
-date: 2020-10-26T11:48:41-04:00
-header:
-    image: /assets/images/alfons-morales-YLSwjSy7stw-unsplash_v1.jpg
-    caption: "Foto: [Alfons Morales](https://unsplash.com/@alfonsmc10?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) via [Unsplash](https://unsplash.com/s/photos/book?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
-intro: 
-  - excerpt: '<br />Ich bin derzeit Forschungsreferent im Deutschen Buch- und Schriftmuseum der Deutschen Nationalbibliothek in Leipzig.'
-feature_row:
-  - image_path: /assets/images/druckerei.jpg
-    alt: "Anonymus: Druckerei und Schriftgießerei. Mainz: zwischen 1829 und 1880."
-    title: "Publikationen & Vorträge"
-    excerpt: "Meine Publikationsliste mit zahlreichen Links zu Volltexten."
-    url: "/publikationen/"
-    btn_label: "mehr lesen"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/flugmaschine.jpg
-    alt: "Anonymus: Degen's Flugmaschine. Erste Hälfte 19. Jh."
-    title: "Projekte"
-    excerpt: "Ausgewählte Projekte, an denen ich in den letzen Jahren beteiligt war."
-    url: "/projekte/"
-    btn_label: "mehr erfahren"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/chris-ried-ieic5Tq8YMk-unsplash.jpg
-    alt: "Farbig ausgezeichneter Programmcode auf einem Monitor"
-    caption: "Foto: [Chris Ried](https://unsplash.com/@cdr6934?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) via [Unsplash](https://unsplash.com/s/photos/coding?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
-    title: "Programmieren für die Kulturwissenschaften"
-    excerpt: "Warum es sich lohnt, wenn Kulturwissenschaftler*innen programmieren können und wie man es lernen kann."
-    url: "/python/"
-    btn_label: "mehr erfahren"
-    btn_class: "btn--primary"
-
+date: 2023-01-29T11:48:41-04:00
 ---
 
-{% include feature_row id="intro" type="center" %}
+<p>Ich bin stellvertretender Leiter der <a href="https://stadtbibliothek.leipzig.de">Leipziger Städtischen Bibliotheken</a> und leite dort die Abteilung Zentrale Bibliotheksdienste.</p>
 
-{% include feature_row %}
+<p>Mehr über meine Ausbildung und vorherigen beruflichen Stationen finden Sie auf meinem <a href="https://www.linkedin.com/in/awndlr/">Linkedin-Profil</a>.</p>
 
-<h1>neue Blogbeiträge</h1>
+<h1>letzte Blogbeiträge</h1>
 
 {% for post in site.posts limit:3 -%}
   {% unless post.hidden -%}

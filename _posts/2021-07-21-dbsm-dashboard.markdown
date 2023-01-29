@@ -16,18 +16,11 @@ tags:
 header:
   overlay_image: /assets/images/2021-07-21-dbsm-dashboard.png
   overlay_filter: 0.5
-  actions:
-    - label: "zum Dashboard"
-      url: "https://share.streamlit.io/buchmuseum/dbsm-dashboard/main/dbsm-dashboard.py"
 ---
 
 Museen können üblicherweise nur einen Bruchteil der Objekte in ihren Sammlungen ausstellen. Die meisten Objekte bleiben im Depot und warten darauf, für ein Forschungsvorhaben oder eine Ausstellung hervorgeholt zu werden. Wer trotzdem einen Überblick über die gesamte Sammlung eines Museums haben wollte, musste sich durch endlose Kataloge wälzen oder war auf zusammenfassende Bestandsbeschreibungen angewiesen.
 
 Für das [Deutsche Buch- und Schriftmuseum](https://www.dnb.de/dbsm) der Deutschen Nationalbibliothek in Leipzig haben wir einen anderen Ansatz versucht: Die elektronischen Katalogdaten wurden massenhaft ausgewertet und zu übersichtlichen Darstellungen verarbeitet.
-
-[Hier geht es direkt zum Dashboard](https://share.streamlit.io/buchmuseum/dbsm-dashboard/main/dbsm-dashboard.py)
-{: .notice--info}
-{: .text-center}
 
 # Das Dashboard
 
@@ -58,4 +51,4 @@ Diese Daten müssen automatisch ausgewertet werden, wozu man die bibliothekarisc
 
 # Code und Lizenz
 
-Der Source-Code des Dashboards ist auf [GitHub](https://github.com/buchmuseum/dbsm-dashboard) verfügbar. Die Daten und Skripte stehen unter freien Lizenzen zur Verfügung.
+Das Dashboard ist derzeit nicht mehr online. Der Source-Code des Dashboards ist auf [GitHub](https://github.com/buchmuseum/dbsm-dashboard) verfügbar. Die Daten und Skripte stehen unter freien Lizenzen zur Verfügung.

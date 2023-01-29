@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "awndlr"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -107,7 +107,10 @@ author:
       url: "https://andrewendler.de"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/awndlr"
+      # url: ""
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://openbiblio.social/@awndlr"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -126,7 +129,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/awndlr"
+      # url: "https://twitter.com/awndlr"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://openbiblio.social/@awndlr"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
